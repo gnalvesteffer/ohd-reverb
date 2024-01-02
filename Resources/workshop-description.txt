@@ -1,5 +1,7 @@
 An experimental mod that adds reverb/echoes to gunfire.
 Not perfect, and probably has issues.
 
-Compatible with multiplayer. 
-Gamemode name for server hosts: XorberaxReverb/Core/BP_HDGame_Reverb.BP_HDGame_Reverb_C
+Multiplayer compatible.
+
+Gamemode name for server hosts: 
+/XorberaxReverb/Core/BP_HDGame_Reverb.BP_HDGame_Reverb_C

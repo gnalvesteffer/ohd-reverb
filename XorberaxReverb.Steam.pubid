@@ -1,0 +1,13 @@
+{
+	"FileVersion": 1,
+	"ID": 3129118644,
+	"Title": "Xorberax's Reverb",
+	"Description": "An experimental mod that adds reverb/echoes to gunfire. Not perfect. Compatible with multiplayer. Gamemode name for server hosts: XorberaxReverb/Core/BP_HDGame_Reverb",
+	"PreviewImgFilename": "Resources/cover.jpg",
+	"Changenote": "",
+	"Tags": [
+		"Mutator",
+		"Ruleset",
+		"Gamemode"
+	]
+}
